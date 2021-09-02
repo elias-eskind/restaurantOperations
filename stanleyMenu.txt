@@ -1,0 +1,30 @@
+Foie Gras,15.50,app
+Beets,13.00,app
+Shrimp Toast,10.75,app
+Chicken Pot Pie,15.25,app
+Scallops,18.50,app
+Cornbread,7.50,app
+Crowder Shrimp & Rice,28.00,ent
+NC trout,29.25,ent
+Duck Breast,32.50,ent
+Pork Tenderloin,29.50,ent
+Buttermilk Fried Chicken,26.25,ent
+Filet of Ribeye,40.75,ent
+Kale & ‘shrooms,9.00,sid
+Carrots & turnips/sprouts,9.00,sid
+Collard Greens,9.00,sid
+French 75,9.00,dnk
+Old Fastion,10.20,dnk
+Whiskey Sour,12.50,dnk
+Margarita,9.00,dnk
+Gin & Tonic,10.75,dnk
+Dirty Martini,10.50,dnk
+Bloody Mary,11.00,dnk
+Wine-Red,8.50,dnk
+Wine-White,8.00,dnk
+Beer,6.25,dnk
+Sorghum Pecan Pie,13.50,des
+Creme Fraiche,10.00,des
+Cobbler,9.00,des
+Chocolate Cremeux,12.75,des
+Chocolate Tart,10.00,des

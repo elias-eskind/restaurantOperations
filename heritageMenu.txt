@@ -1,0 +1,20 @@
+Jack's Cheesy Bread,6.00,app
+Spinach & Artichoke Dip,8.50,app
+Stuffed Mushrooms,9.00,app
+Classic Meatballs,7.50,app
+Southwestern Cob Salad,8.00,app
+Caesar Salad,6.00,app
+Ma's Lasagna,14.00,ent
+Jack's Spict Pene,15.50,ent
+The Cadillac Mac & Cheese,14.00,ent
+All-American Pizza,13.00,ent
+Finest Margherita Pizza,11.00,ent
+Goat & Fig Pizza,15.00,ent
+Buffalo Ranch Pizza,14.50,ent
+Soda,2.50,dnk
+Red Bull,3.50,dnk
+Iced Tea,2.50,dnk
+Domestic Beer,4.00,dnk
+Homemade Milkshake,5.00,des
+Ice Cream Sandwhich,7.00,des
+Candy Bar Brownie,7.50,des

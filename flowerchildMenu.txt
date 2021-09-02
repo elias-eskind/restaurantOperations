@@ -1,0 +1,20 @@
+Daily Soup,6.25,app
+Simple Hummus,6.00,app
+Avocado Hummus,7.00,app
+Crushed Avocado Toast,7.50,app
+Organic Kale Salad,8.5,ent
+Chopped Veggies,8.75,ent
+Vegan Artichoke,8.75,ent
+Heirloom Tomato & Watermelon,9.00,ent
+Turkey & Avocado Cobb,12.50,ent
+Glow Blow,9.75,ent
+Motherearth Bowl,9.50,ent
+Shrimp & Avocado Bowl,15.5,ent
+"Forbidden" Rice,10,ent
+Iced Black Tea,3.50,dnk
+Kombucha,6.50,dnk
+Fresh Squeezed Lemonade,3.50,dnk
+Hot Tea,3.50,dnk
+Fruit Cake,5.50,des
+Vegan Choco-Peanut Bar,4.00,des
+Stawberry Oatmeal Cookie,3.50,des

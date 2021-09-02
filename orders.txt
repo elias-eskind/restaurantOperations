@@ -1,0 +1,46 @@
+1051,Saffron,2 Egyptian Spring Rolls Appetizer 6.5 4 Samboosa Appetizer 5.5 6 Shish Kabab - Beef Kabab Entree 16.5 9 Koshary - With Meat Sauce Entree 12.25 11 Turkish Coffee Drink 2.25 14 Basboosa - 2 Pieces Dessert 4.5,2 4 6 9 11 14,59.85,2020-09-13,CLOSED
+1106,Mac's BBQ,5 Brunswick Stew Appetizer 4.5 14 Kansas City Beef Rib Entree 35.0 19 Black Bean Burger Entree 12.0 28 Warm Chocolate Brownie Dessert 5.0,5 14 19 28,71.19,2020-09-17,OPEN
+1209,Mac's BBQ,17 Spark Plug Burger Entree 13.5,17,17.01,2020-09-18,OPEN
+1359,Saffron,1 Chicken Satay Appetizer 7.5 5 Shish Tawooq - Chicken Kabab Entree 13.5 10 Tea with Mint Drink 2.25 15 Mango Pudding Dessert 6.0,1 5 10 15,36.85,2020-09-12,OPEN
+2052,Saffron,2 Egyptian Spring Rolls Appetizer 6.5 5 Shish Tawooq - Chicken Kabab Entree 13.5 9 Koshary - With Meat Sauce Entree 12.25 15 Mango Pudding Dessert 6.0,2 5 9 15,48.19,2020-09-13,OPEN
+2173,Saffron,1 Chicken Satay Appetizer 7.5 5 Shish Tawooq - Chicken Kabab Entree 13.5 10 Batata Harra Dessert 9.0 18 Basboosa - 2 Pieces Dessert 4.5,1 5 10 18,43.47,2020-09-17,CLOSED
+2246,Saffron,2 Egyptian Spring Rolls Appetizer 6.5 6 Shish Kabab - Beef Kabab Entree 16.5 10 Batata Harra Dessert 9.0 13 Chick Pea Soup Dessert 5.0,2 6 10 13,46.62,2020-09-15,OPEN
+2367,Heritage Pizza,2 Spinach & Artichoke Dip Appetizer 8.5 5 Southwestern Cob Salad Appetizer 8.0 10 All-American Pizza Entree 13.0 17 Domestic Beer Drink 4.0 18 Homemade Milkshake Dessert 5.0,2 5 10 17 18,48.51,2020-09-14,OPEN
+2791,Saffron,5 Shish Tawooq - Chicken Kabab Entree 13.5 10 Batata Harra Dessert 9.0,5 10,28.35,2020-09-15,OPEN
+2904,Saffron,5 Shish Tawooq - Chicken Kabab Entree 13.5 10 Batata Harra Dessert 9.0 15 Turkish Coffee Drink 2.25,5 10 15,31.18,2020-09-17,OPEN
+3062,Saffron,5 Shish Tawooq - Chicken Kabab Entree 13.5 8 Koshary - Vegetarian Entree 10.25 10 Batata Harra Dessert 9.0 17 Rice Pudding - with Rose Water Dessert 6.0,5 8 10 17,48.82,2020-09-17,OPEN
+3203,Mac's BBQ,1 Fried Pickles Appetizer 5.0 13 St. Louis Ribs Entree 25.0 23 Mac & Cheese Side 3.5 31 Domestic Beer Drink 4.0 34 Banana Pudding Dessert 5.0,1 13 23 31 34,53.55,2020-09-21,OPEN
+3273,Saffron,1 Chicken Satay Appetizer 7.5 5 Shish Tawooq - Chicken Kabab Entree 13.5 10 Batata Harra Side 9.0 15 Turkish Coffee Drink 2.25 18 Basboosa - 2 Pieces Dessert 4.5,1 5 10 15 18,49.77,2020-09-21,OPEN
+3378,Saffron,3 Humus Appetizer 5.5 4 Samboosa Appetizer 5.5 7 Fatta Bel Mooze Entree 17.25 9 Koshary - With Meat Sauce Entree 12.25 10 Tea with Mint Drink 2.25 13 Rice Pudding - with Rose Water Dessert 6.0,3 4 7 9 10 13,61.42,2020-09-12,CLOSED
+3931,The Stanley,2 Beets Appetizer 13.0 4 Chicken Pot Pie Appetizer 15.25 5 Scallops Appetizer 18.5 8 NC trout Entree 29.25 9 Duck Breast Entree 32.5 11 Buttermilk Fried Chicken Entree 26.25 25 Cobbler Dessert 9.0,2 4 5 8 9 11 25,181.12,2020-09-13,OPEN
+4092,Flower Child,2 Simple Hummus Appetizer 6.0 12 Shrimp & Avocado Bowl Entree 15.5 20 Stawberry Oatmeal Cookie Dessert 3.5,2 12 20,31.5,2020-09-17,CLOSED
+4168,Saffron,3 Humus Appetizer 5.5 8 Koshary - Vegetarian Entree 10.25 10 Batata Harra Dessert 9.0,3 8 10,31.18,2020-09-17,CLOSED
+4480,Saffron,3 Humus Appetizer 5.5 12 Lupini Beans Dessert 4.5 16 Soda Drink 2.0 16 Soda Drink 2.0 19 Mango Pudding Dessert 6.0,3 12 16 16 19,25.2,2020-09-18,OPEN
+4738,Saffron,4 Samboosa Appetizer 5.5 5 Shish Tawooq - Chicken Kabab Entree 13.5 13 Chick Pea Soup Dessert 5.0 18 Basboosa - 2 Pieces Dessert 4.5,4 5 13 18,47.25,2020-09-17,CLOSED
+4945,Heritage Pizza,3 Stuffed Mushrooms Appetizer 9.0 13 Buffalo Ranch Pizza Entree 14.5 14 Soda Drink 2.5 18 Homemade Milkshake Dessert 5.0,3 13 14 18,39.06,2020-09-18,OPEN
+5087,The Stanley,3 Shrimp Toast Appetizer 10.75 7 Crowder Shrimp & Rice Entree 28.0 12 Filet of Ribeye Entree 40.75 15 Whiskey Sour Drink 12.5 23 Sorghum Pecan Pie Dessert 13.5 27 Chocolate Tart Dessert 10.0,3 7 12 15 23 27,145.53,2020-09-15,OPEN
+5144,The Stanley,3 Shrimp Toast Appetizer 10.75 12 Filet of Ribeye Entree 40.75 22 Beer Drink 6.25 27 Chocolate Tart Dessert 10.0,3 12 22 27,85.36,2020-09-17,OPEN
+5153,The Stanley,3 Shrimp Toast Appetizer 10.75 5 Scallops Appetizer 18.5 8 NC trout Entree 29.25 15 Whiskey Sour Drink 12.5 27 Chocolate Tart Dessert 10.0,3 5 8 15 27,102.06,2020-09-12,OPEN
+5309,Saffron,3 Humus Appetizer 5.5 4 Samboosa Appetizer 5.5 6 Shish Kabab - Beef Kabab Entree 16.5 8 Koshary - Vegetarian Entree 10.25 9 Koshary - With Meat Sauce Entree 12.25 13 Rice Pudding - with Rose Water Dessert 6.0,3 4 6 8 9 13,70.56,2020-09-12,CLOSED
+5505,Saffron,1 Chicken Satay Appetizer 7.5 5 Shish Tawooq - Chicken Kabab Entree 13.5 10 Batata Harra Dessert 9.0,1 5 10,37.8,2020-09-15,OPEN
+5604,Saffron,2 Egyptian Spring Rolls Appetizer 6.5 3 Humus Appetizer 5.5 5 Shish Tawooq - Chicken Kabab Entree 13.5 7 Fatta Bel Mooze Entree 17.25 11 Turkish Coffee Drink 2.25 14 Basboosa - 2 Pieces Dessert 4.5,2 3 5 7 11 14,62.37,2020-09-12,CLOSED
+5610,Flower Child,2 Simple Hummus Appetizer 6.0 8 Heirloom Tomato & Watermelon Entree 9.0 12 Shrimp & Avocado Bowl Entree 15.5 16 Fresh Squeezed Lemonade Drink 3.5 19 Vegan Choco-Peanut Bar Dessert 4.0,2 8 12 16 19,47.88,2020-09-14,CLOSED
+5855,Flower Child,2 Simple Hummus Appetizer 6.0 8 Heirloom Tomato & Watermelon Entree 9.0 12 Shrimp & Avocado Bowl Entree 15.5 18 Fruit Cake Dessert 5.5 19 Vegan Choco-Peanut Bar Dessert 4.0,2 8 12 18 19,50.4,2020-09-18,OPEN
+5907,Saffron,5 Shish Tawooq - Chicken Kabab Entree 13.5 9 Koshary - With Meat Sauce Entree 12.25 15 Turkish Coffee Drink 2.25,5 9 15,35.28,2020-09-17,OPEN
+5947,Saffron,0 Shish Tawooq - Chicken Kabab Dessert 0 1 Chicken Satay Appetizer 7.5 5 Shish Tawooq - Chicken Kabab Entree 13.5 10 Batata Harra Dessert 9.0,0 1 5 10,37.8,2020-09-15,OPEN
+6065,Mac's BBQ,2 Cripsy Pork Rinds Appetizer 5.0 7 Baja Salad Appetizer 6.0 10 Carolina Beef Brisket Entree 18.0 22 Pulled Pork Taco Entree 12.0,2 7 10 22,51.66,2020-09-17,OPEN
+6172,Mac's BBQ,1 Fried Pickles Appetizer 5.0 21 Pulled Pork Sandwhich Entree 14.0 26 Domestic Beer Drink 4.0 29 Banana Pudding Dessert 5.0,1 21 26 29,35.28,2020-09-14,CLOSED
+6382,Saffron,2 Egyptian Spring Rolls Appetizer 6.5 5 Shish Tawooq - Chicken Kabab Entree 13.5 8 Koshary - Vegetarian Entree 10.25 14 Basboosa - 2 Pieces Dessert 4.5,2 5 8 14,43.78,2020-09-13,OPEN
+6522,The Stanley,1 Foie Gras Appetizer 15.5 5 Scallops Appetizer 18.5 8 NC trout Entree 29.25 19 Bloody Mary Drink 11.0 23 Sorghum Pecan Pie Dessert 13.5 24 Creme Fraiche Dessert 10.0 27 Chocolate Tart Dessert 10.0,1 5 8 19 23 24 27,135.76,2020-09-17,CLOSED
+6619,Saffron,1 Chicken Satay Appetizer 7.5 5 Shish Tawooq - Chicken Kabab Entree 13.5 10 Tea with Mint Drink 2.25 15 Mango Pudding Dessert 6.0,1 5 10 15,36.85,2020-09-12,CLOSED
+6709,Heritage Pizza,4 Classic Meatballs Appetizer 7.5 8 Jack's Spict Pene Entree 15.5 12 Goat & Fig Pizza Entree 15.0,4 8 12,47.88,2020-09-17,OPEN
+7221,Mac's BBQ,1 Fried Pickles Appetizer 5.0 10 Carolina Beef Brisket Entree 18.0 13 St. Louis Ribs Entree 25.0 24 Red Bull Drink 3.5 27 Shot of Fireball Drink 3.5 30 Seasonal Cobbler Dessert 5.0,1 10 13 24 27 30,75.6,2020-09-17,CLOSED
+7810,Mac's BBQ,3 Brisket Burnt Ends Appetizer 11.5 8 Thunderbird Salas Appetizer 6.0 14 Kansas City Beef Rib Entree 35.0 22 Pulled Pork Taco Entree 12.0,3 8 14 22,81.27,2020-09-17,OPEN
+8076,Saffron,1 Chicken Satay Appetizer 7.5 5 Shish Tawooq - Chicken Kabab Entree 13.5 10 Tea with Mint Drink 2.25 15 Mango Pudding Dessert 6.0,1 5 10 15,36.85,2020-09-11,CLOSED
+8185,Saffron,1 Chicken Satay Appetizer 7.5 5 Shish Tawooq - Chicken Kabab Entree 13.5 7 Fatta Bel Mooze Entree 17.25,1 5 7,48.19,2020-09-17,OPEN
+8544,Heritage Pizza,4 Classic Meatballs Appetizer 7.5 13 Buffalo Ranch Pizza Entree 14.5 15 Red Bull Drink 3.5 18 Homemade Milkshake Dessert 5.0,4 13 15 18,38.43,2020-09-21,OPEN
+8619,The Stanley,4 Chicken Pot Pie Appetizer 15.25 8 NC trout Entree 29.25 11 Buttermilk Fried Chicken Entree 26.25 13 French 75 Drink 9.0 19 Bloody Mary Drink 11.0 26 Chocolate Cremeux Dessert 12.75,4 8 11 13 19 26,130.41,2020-09-13,OPEN
+8967,Saffron,3 Humus Appetizer 5.5 6 Shish Kabab - Beef Kabab Entree 16.5 9 Koshary - With Meat Sauce Entree 12.25 12 Soda Drink 2.0,3 6 9 12,45.67,2020-09-13,OPEN
+9547,Saffron,2 Egyptian Spring Rolls Appetizer 6.5 4 Samboosa Appetizer 5.5,2 4,15.12,2020-09-17,CLOSED
+9849,The Stanley,3 Shrimp Toast Appetizer 10.75 7 Crowder Shrimp & Rice Entree 28.0 7 Crowder Shrimp & Rice Entree 28.0 13 French 75 Drink 9.0 20 Wine-Red Drink 8.5 21 Wine-White Drink 8.0 26 Chocolate Cremeux Dessert 12.75,3 7 7 13 20 21 26,132.3,2020-09-12,OPEN
+9904,The Stanley,6 Cornbread Appetizer 7.5 9 Duck Breast Entree 32.5 13 French 75 Drink 9.0 13 French 75 Drink 9.0 25 Cobbler Dessert 9.0,6 9 13 13 25,84.42,2020-09-12,CLOSED

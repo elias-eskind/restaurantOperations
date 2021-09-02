@@ -1,0 +1,35 @@
+Fried Pickles,5.00,app
+Cripsy Pork Rinds,5.00,app
+Brisket Burnt Ends,11.50,app
+Deluxe Deviled Eggs,6.00,app
+Brunswick Stew,4.50,app
+Hickory Smoked Wings(16ct),17.50,app
+Baja Salad,6.00,app
+Thunderbird Salas,6.00,app
+House Salad,5.50,app
+Carolina Beef Brisket,18.00,ent
+Hickory Smoked Pulled Pork,13.00,ent
+Cornmeal Fried Catfish,15.00,ent
+St. Louis Ribs,25.00,ent
+Kansas City Beef Rib,35.00,ent
+Combo Platter,29.50,ent
+BBQ Burger,13.50,ent
+Spark Plug Burger,13.50,ent
+Southern Loop Burger,13.50,ent
+Black Bean Burger,12.00,ent
+Fried Catfish Po-Boy,12.50,ent
+Pulled Pork Sandwhich,14.00,ent
+Pulled Pork Taco,12.00,ent
+Mac & Cheese,3.50,sid
+Collard Greens,3.50,sid
+Green Bean Casserole,3.50,sid
+Onion Rings,3.50,sid
+French Fries,3.50,sid
+Soda,2.50,dnk
+Red Bull,3.50,dnk
+Sweet Tea,2.50,dnk
+Domestic Beer,4.00,dnk
+Shot of Fireball,3.50,dnk
+Warm Chocolate Brownie,5.00,des
+Banana Pudding,5.00,des
+Seasonal Cobbler,5.00,des

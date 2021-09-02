@@ -1,0 +1,19 @@
+Chicken Satay,7.50,app
+Egyptian Spring Rolls,6.50,app
+Humus,5.50,app
+Samboosa,5.50,app
+Shish Tawooq - Chicken Kabab,13.50,ent
+Shish Kabab - Beef Kabab,16.50,ent
+Fatta Bel Mooze,17.25,ent
+Koshary - Vegetarian,10.25,ent
+Koshary - With Meat Sauce,12.25,ent
+Batata Harra,9.00,sid
+Roasted Vegetables,5.50,sid
+Lupini Beans,4.50,sid
+Chick Pea Soup,5.00,sid
+Tea with Mint,2.25,dnk
+Turkish Coffee,2.25,dnk
+Soda,2.00,dnk
+Rice Pudding - with Rose Water,6.00,des
+Basboosa - 2 Pieces,4.50,des
+Mango Pudding,6.00,des
